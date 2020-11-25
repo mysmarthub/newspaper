@@ -1,18 +1,14 @@
 Django Newspaper
 ================
-`git clone https://github.com/mysmarthub/newspaper.git`
+`pip install -r requirements.txt`
 
-`cd newspaper`
+`python manage.py makemigrations`
 
-`pip3 install -r requirements.txt`
+`python manage.py migrate`
 
-`python3 manage.py makemigrations`
+`python manage.py createsuperuser`
 
-`python3 manage.py migrate`
-
-`python3 manage.py createsuperuser`
-
-`python3 manage.py runserver`
+`python manage.py runserver`
 
 Use:
 ---
