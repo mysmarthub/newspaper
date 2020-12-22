@@ -8,7 +8,7 @@ Newspaper (Django Project)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/mysmarthub/newspaper)
 ![GitHub top language](https://img.shields.io/github/languages/top/mysmarthub/newspaper)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmartub/newspaper/django)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/mysmarthub/newspaper/django)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mysmarthub/newspaper)
 ![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/newspaper/total)
 ![GitHub](https://img.shields.io/github/license/mysmarthub/newspaper)
